@@ -1,1 +1,1 @@
-# epic-2-finalterm-output-Mana-ay
+I created my Mandala pattern by using p5.js Web Editor. I didn't give a lot of thought to the design I made. It's just I draw the way I feel and what I would like to be the outcome of my work. I'm thinking about how I should do it without a lot of complications but with the help of my sources https://www.youtube.com/watch?v=SmTmzaQB6Ls&t=1879s https://www.youtube.com/channel/UCILsacMdzr_jeUPj-QK-q-Q it seems to be easier. I would like to know more about the depths of the p5.js Web Editor like creating 3D works, patterns, and more designs.
