@@ -1,0 +1,54 @@
+function setup() {
+  createCanvas(500, 300);
+   background(260, 180, 120);
+}
+function rawr(f){
+  rotate(17+(f*2));
+  line(40, 46,51,56, 21, 80)
+ 
+}
+
+function draw() {
+  noFill()
+  ellipse(width/2, height/2, 40, 40)
+  ellipse(width/2, height/2, 50, 50)
+    circle(width/2, height/2, 110)
+    circle(width/2, height/2, 120)
+  circle(width/2, height/2, 220)
+    circle(width/2, height/2, 230)
+    circle(width/2, height/2, 270)
+    circle(width/2, height/2, 280)
+  translate(width/ 2, height/2)
+ 
+ 
+for( var i = 0; i < 6; i++){
+    rotate(3+ (i*2));
+    rect(-40, -40, 80, 80);
+  }
+ 
+for(var f = 0; f <= 36; f++ ){
+  rawr(f)
+}
+for (var u = 0; u < 12; u++)  {
+stroke(12, 11,11);
+  rotate(73+ (i*2));
+  bezier(40, 40, 10, 150, 180, 40, -20, 40, 30, 0, 0, 0);
+  }
+for (var t = 0; t < 5; t++){
+  rotate(73+ (i*2));
+  bezier(40, 40, 10, 150, 180, 40, -20, 40, 30, 0, 0, 0);
+  }
+for(var b =0; b < 17; b++){
+  rotate(17);
+  fill(55)
+  arc(75,16,30,10,PI/2,3*PI/2);
+   
+  }
+  {
+for (var h = 0; h < 17; h++){
+    rotate(17)
+    noFill()
+    triangle(120, 60, 110, 10, 80, 75);
+  }
+}
+}  
